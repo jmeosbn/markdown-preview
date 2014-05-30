@@ -11,7 +11,7 @@
   , "keywords": ["markdown", "markdown-preview"]
   , "dependencies": {
         "open": ">=0.0.2"
-      , "showdown": ">=0.2.0"
+      , "multimarkdown": ">=0.0.15"
       , "node-watch": "*"
       , "mime": "*"
       
